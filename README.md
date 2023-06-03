@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![sea](./sea.png)
+
 <!--
 **rikonaka/rikonaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
