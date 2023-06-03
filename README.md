@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![sea](./sea.png)
 
 <!--
@@ -16,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+- 🔭 I’m currently working on my studies.
+- 🌱 I’m currently learning love.
