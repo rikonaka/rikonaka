@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 - 🔭 I’m currently working on my studies.
-- 🌱 I’m currently learning love.
+- 🌱 I’m currently learning how to love.
