@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 - 🔭 I’m currently working on Artificial Intelligence Security and Cyberspace Security.
 - 🌱 I’m currently learning how to love.
-- 😄 Some of the interesting tools I have implemented:
+- 😄 Some of the interesting tools I implemented:
   - [pistol](https://github.com/rikonaka/pistol-rs), a rust library about cybersecurity, and you can use the scanning and probing in your rust code now!
   - [diskwatcher](https://github.com/rikonaka/diskwatcher-rs), a simple file modification monitor for security competition defence to detect files change on your Linux server!
   - [translator](https://github.com/rikonaka/translator-rs), a translation software that works very well when reading papers in a Linux environment!
